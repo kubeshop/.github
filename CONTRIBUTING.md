@@ -1,6 +1,6 @@
 # How to contribute
 
-Thank you for looking at this. We, at Kubeshop, are really excited to have you contribute on Monokle with us.
+Thank you for looking at this. We, at Kubeshop, are really excited to have you contribute on the project with us.
 
 The project is still new, so the main lines of communication with our team is through github issues or direct messages (more to be announced).
 
@@ -20,7 +20,7 @@ Always write a clear log message for your commits. One-line messages are fine fo
 
 ## Coding conventions
 
-Start reading our code and you'll get the hang of it. We use prettier and eslint to help maintain peace in the galaxy.
+Start reading our code and you'll get the hang of it. We use code formatting tools to help maintain peace in the galaxy.
 
 Many thanks,
 Kubeshop
