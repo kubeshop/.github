@@ -9,7 +9,7 @@ Here are the projects that we’re currently working on:
 
 **[Testkube](https://github.com/kubeshop/testkube)** - Testkube natively integrates test orchestration and execution into Kubernetes and your CI/CD/GitOps pipeline.
 
-**[Botkube](https://github.com/kubeshop/botkube)** - Botkube gives DevOps, SREs, and developers fast, simple, and secure access to their clusters right from your chat and collaboration platform
+**[Botkube](https://github.com/kubeshop/botkube)** - Botkube gives DevOps, SREs, and developers fast, simple, and secure access to their clusters right from their favorite chat and collaboration platform like Slack, MS Teams, and Mattermost. 
 
 **[Kubefirst](https://github.com/kubefirst/kubefirst)** -  Kubefirst provides fully-automated open source application delivery and infrastructure management GitOps platforms providing the best cloud native tools with a single command.
 
