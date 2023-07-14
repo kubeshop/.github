@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Kubeshop](http://kubeshop.io) is an accelerator focused on building open source tools for testers, developers, and SREs in the Cloud Native and Kubernetes ecosystem. We’re glad you’re here!
+[Kubeshop](http://kubeshop.io) is an accelerator focused on building tools for testers, developers, and SREs in the Cloud Native and Kubernetes ecosystem. We’re glad you’re here!
 
 ### Projects
 Here are the projects that we’re currently working on:
