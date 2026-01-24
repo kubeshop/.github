@@ -2,12 +2,15 @@
 
 [Kubeshop](http://kubeshop.io) is an accelerator focused on building tools for testers, developers, and SREs in the Cloud Native and Kubernetes ecosystem. We’re glad you’re here!
 
-### Projects
-Here are the projects that we’re currently working on:
-
-**[Monokle](https://github.com/kubeshop/monokle)** - Monokle is a set of tools for creating and maintaining high-quality Kubernetes configurations throughout the entire application lifecycle.
+### Active Projects
 
 **[Testkube](https://github.com/kubeshop/testkube)** - Testkube natively integrates test orchestration and execution into Kubernetes and your CI/CD/GitOps pipeline.
+
+### Archived Projects
+
+These project are still available but not actively maintained - feel free to use and contribute.
+
+**[Monokle](https://github.com/kubeshop/monokle)** - Monokle is a set of tools for creating and maintaining high-quality Kubernetes configurations throughout the entire application lifecycle.
 
 **[Botkube](https://github.com/kubeshop/botkube)** - Botkube gives DevOps, SREs, and developers fast, simple, and secure access to their clusters right from their favorite chat and collaboration platform like Slack, MS Teams, and Mattermost. 
 
